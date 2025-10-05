@@ -7,5 +7,5 @@ public class App
     }
 
     public static String a() {return "Hello, ";}
-    public static String b() {return "World!";}
+    public static String b() {return "világ!";}
 }
